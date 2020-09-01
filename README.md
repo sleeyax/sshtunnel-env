@@ -1,5 +1,5 @@
 # sshtunnel-env
-sshtunnel-env is a docker image which allows you to establish SSH Tunnels using environment variables for configuration.
+sshtunnel-env is a docker image which allows you to establish SSH tunnels using environment variables for configuration.
 
 ## configuration
 Create a `.env` file and copy paste + edit the following values:
